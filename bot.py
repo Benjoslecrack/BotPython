@@ -40,3 +40,5 @@ except ElementClickInterceptedException:
 
 # Quitter le programme
 driver.quit()
+
+print("Yo la team !")
